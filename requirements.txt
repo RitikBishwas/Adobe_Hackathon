@@ -1,0 +1,19 @@
+# Adobe India Hackathon – Round 1A: Outline Extractor
+
+## 🔍 Challenge
+
+Extract structured outlines (Title, H1, H2, H3 with page number) from PDFs using on-device intelligence.
+
+---
+
+## 🛠 Features
+
+- Parses PDFs up to 50 pages
+- Detects headings using regex and layout
+- Outputs title and hierarchical outline in JSON format
+- Works offline, Dockerized, amd64-compatible
+
+---
+
+## 📂 Folder Structure
+
